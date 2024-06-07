@@ -1,5 +1,5 @@
 ## Unit Converter
-- `Welcome to the Universal Unit Converter project! This handy tool allows users to convert any given value seamlessly between various units of measurement, including meters, feet, liters, gallons, kilograms, and pounds. Whether you're working on a scientific project, cooking up a storm in the kitchen, or simply need to convert units for everyday tasks, this converter has got you covered.`
+- `Welcome to the Unit Converter project! This handy tool allows users to convert any given value seamlessly between various units of measurement, including meters, feet, liters, gallons, kilograms, and pounds. Whether you're working on a scientific project, cooking up a storm in the kitchen, or simply need to convert units for everyday tasks, this converter has got you covered.`
 
 ## Features
 - Versatile Conversion: `Convert any value entered by the user into meters, feet, liters, gallons, kilograms, or pounds.`
@@ -16,4 +16,4 @@
 - Customizable: `Easily expandable to support additional units or functionalities based on user feedback and requirements.`
 
 ## Get Started
-`Ready to simplify your unit conversions? Clone or download the Universal Unit Converter repository and start converting values effortlessly today!`
+`Ready to simplify your unit conversions? Clone or download the Unit Converter repository and start converting values effortlessly today!`
