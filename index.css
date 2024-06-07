@@ -1,0 +1,107 @@
+body {
+    border: none;
+    margin: 0;
+    width: 100%;
+    font-family: "BlinkMacSystemFont", "Segoe UI", "Roboto", "Helvetica Neue", "Arial", "Noto Sans", "sans-serif", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+#container {
+    border: none;
+    margin: 0;
+}
+
+h1 {
+    margin: auto;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 28px;
+    padding-bottom: 40px;
+    font-size: 60px;
+}
+
+#first-box {
+    background-color: #6943FF;
+    padding-bottom: 50px;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+#input-el {
+    outline: none;
+    border: 1px solid #F4F5F4;
+    background: #6943FF;
+    height: 100px;
+    width: 150px;
+    border-radius: 5px;
+    box-sizing: border-box;
+    color: white;
+    font-weight: bold;
+    font-size: 4.5rem;
+    text-align: center;
+}
+
+#convert-btn {
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background: white;
+    color: #6943FF;
+    font-size: 1.5rem;
+    margin-top: 30px;
+    width: 150px;
+    height: 50px;
+}
+
+#second-box {
+    background: #F4F5F4;
+    height: 100%;
+    text-align: center;
+    align-items: center;
+    padding: 40px 0px 40px 0px;
+}
+
+#output {
+    background: white;
+    height: 90px;
+    padding: 5px 0px 55px 0px;
+    margin: 0px 37px 32px 37px;
+    justify-content: space-between;
+}
+
+h2 {
+    color: #6943FF;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    h1 {
+        font-size: 40px;
+        padding: 20px;
+    }
+
+    #input-el {
+        height: 70px;
+        width: 120px;
+        font-size: 3rem;
+    }
+
+    #convert-btn {
+        width: 120px;
+        height: 40px;
+        font-size: 1.2rem;
+    }
+
+    #second-box {
+        padding: 20px 0px 20px 0px;
+    }
+
+    #output {
+        margin: 0px 20px 20px 20px;
+    }
+}
